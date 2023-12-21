@@ -67,4 +67,4 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-// Versão pós commits
+// Nova versão pós commits
