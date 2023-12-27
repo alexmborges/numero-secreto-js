@@ -67,4 +67,3 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-// Recalibrando 2
